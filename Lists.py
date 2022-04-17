@@ -14,3 +14,7 @@ hands = [
     ['6','A','k'],
 ]
 print(hands[2])
+
+print(hands[2])
+print(len(planets))
+print(sorted(planets)) #also there are fns like : sum, max, min
