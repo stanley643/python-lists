@@ -18,3 +18,6 @@ print(hands[2])
 print(hands[2])
 print(len(planets))
 print(sorted(planets)) #also there are fns like : sum, max, min
+
+
+#tuples are like lists bt the difference is that they use blackets () and the are immutable
